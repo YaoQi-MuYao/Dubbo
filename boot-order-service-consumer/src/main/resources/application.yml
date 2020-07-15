@@ -1,0 +1,10 @@
+server:
+               port: 8083
+
+               dubbo:
+                 application:
+                   name: order-service-consumer
+                 metadata-report:
+                   address: zookeeper://120.79.191.168:2181
+                 registry:
+                   address: zookeeper://120.79.191.168:2181

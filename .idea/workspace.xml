@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72262419-09cd-4a94-966d-543ce6cc7637" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\Project\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1efGOL9qfwlVGJDJIXR0MUy6lOZ" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/common/src/main/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wenruo.service.impl" />
+      <recent name="com.wenruo.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Project\dubbo-admin-develop\dubbo\common\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BootUserServiceProviderApplication">
+    <configuration name="ConsumerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wenruo.ConsumerMain" />
+      <module name="order-service-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wenruo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wenruo.ProviderMain" />
+      <module name="user-service-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wenruo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootOrderServiceConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot-order-service-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wenruo.BootOrderServiceConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootUserServiceProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot-user-service-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wenruo.BootUserServiceProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConsumerMain" />
+        <item itemvalue="Application.ProviderMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72262419-09cd-4a94-966d-543ce6cc7637" name="Default Changelist" comment="" />
+      <created>1594705200615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594705200615</updated>
+      <workItem from="1594705204024" duration="641000" />
+      <workItem from="1594705852934" duration="5948000" />
+      <workItem from="1594715275260" duration="4222000" />
+      <workItem from="1594732858569" duration="9279000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="198" key="#Project_Structure" timestamp="1594741432642">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1594741432642" />
+    <state x="765" y="256" key="#com.intellij.ide.util.MemberChooser" timestamp="1594734754163">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="256" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1594734754163" />
+    <state x="690" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594707607269">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1594707607269" />
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1594705842405">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1594705842405" />
+    <state width="1877" height="455" key="GridCell.Tab.0.bottom" timestamp="1594743238564">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="455" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1594743238564" />
+    <state width="1877" height="455" key="GridCell.Tab.0.center" timestamp="1594743238564">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="455" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1594743238564" />
+    <state width="1877" height="455" key="GridCell.Tab.0.left" timestamp="1594743238564">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="455" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1594743238564" />
+    <state width="1877" height="455" key="GridCell.Tab.0.right" timestamp="1594743238564">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="455" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1594743238564" />
+    <state width="1877" height="455" key="GridCell.Tab.1.bottom" timestamp="1594743238564">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="455" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1594743238564" />
+    <state width="1877" height="455" key="GridCell.Tab.1.center" timestamp="1594743238564">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="455" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1594743238564" />
+    <state width="1877" height="455" key="GridCell.Tab.1.left" timestamp="1594743238564">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="455" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1594743238564" />
+    <state width="1877" height="455" key="GridCell.Tab.1.right" timestamp="1594743238564">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="455" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1594743238564" />
+    <state x="461" y="182" key="SettingsEditor" timestamp="1594705843647">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="182" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1594705843647" />
+    <state x="549" y="149" key="new project wizard" timestamp="1594734427894">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="549" y="149" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1594734427894" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1594735369847">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1594735369847" />
+    <state x="613" y="138" key="spring file set editor" timestamp="1594715385648">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="613" y="138" key="spring file set editor/0.0.1920.1080@0.0.1920.1080" timestamp="1594715385648" />
+  </component>
+  <component name="ideajad">
+    <property name="annotate" value="false" />
+    <property name="annotateFully" value="false" />
+    <property name="braces" value="false" />
+    <property name="clear" value="false" />
+    <property name="confirmNavigationTriggeredDecompile" value="true" />
+    <property name="dead" value="true" />
+    <property name="defaultInitializers" value="false" />
+    <property name="dissassemblerOnly" value="false" />
+    <property name="fieldsFirst" value="true" />
+    <property name="fileExtension" value="java" />
+    <property name="fullyQualifiedNames" value="false" />
+    <property name="indentation" value="4" />
+    <property name="intRadix" value="10" />
+    <property name="lineNumbersAsComments" value="true" />
+    <property name="longRadix" value="10" />
+    <property name="maxStringLength" value="64" />
+    <property name="nocast" value="false" />
+    <property name="noclass" value="false" />
+    <property name="nocode" value="false" />
+    <property name="noconv" value="false" />
+    <property name="noctor" value="false" />
+    <property name="nodos" value="false" />
+    <property name="nofd" value="false" />
+    <property name="noinner" value="false" />
+    <property name="nolvt" value="false" />
+    <property name="nonlb" value="false" />
+    <property name="outputDirectory" value="" />
+    <property name="packFields" value="3" />
+    <property name="packImports" value="7" />
+    <property name="prefixNumericalClasses" value="_cls" />
+    <property name="prefixNumericalFields" value="_fld" />
+    <property name="prefixNumericalLocals" value="_lcl" />
+    <property name="prefixNumericalMethods" value="_mth" />
+    <property name="prefixNumericalParameters" value="_prm" />
+    <property name="prefixUnusedExceptions" value="_ex" />
+    <property name="readonly" value="false" />
+    <property name="safe" value="false" />
+    <property name="sort" value="false" />
+    <property name="spaceAfterKeyword" value="false" />
+    <property name="splitStringsAtNewline" value="false" />
+    <property name="useTabs" value="false" />
+  </component>
+</project>

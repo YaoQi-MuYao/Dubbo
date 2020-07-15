@@ -1,0 +1,17 @@
+server:
+  port: 8081
+
+dubbo:
+  application:
+    name: user-service-provider
+  registry:
+    address: zookeeper://120.79.191.168:2181
+  metadata-report:
+    address: zookeeper://120.79.191.168:2181
+  protocol:
+    name: dubbo
+    port: 20880
+  monitor:
+    protocol: registry
+  config-center:
+    address: zookeeper://120.79.191.168:2181
